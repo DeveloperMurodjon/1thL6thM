@@ -1,0 +1,47 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+  scroll-behavior: smooth;
+  height: 100%;
+}
+ul,
+ol {
+  list-style: none;
+}
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+image {
+  object-fit: cover;
+  display: flex;
+}
+div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 49px;
+}
+
+.signIn {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 19.12px;
+  text-align: center;
+  color: black;
+}
+.start {
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 19.12px;
+  border-radius: 8px;
+  background-color: #4f46ba;
+  padding: 17px 35px;
+  color: white;
+}

@@ -1,0 +1,21 @@
+.nav-menu {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 25px;
+  list-style: none;
+}
+.nav-menu li {
+  text-decoration: none;
+  text-transform: none;
+}
+.nav-menu li a {
+  text-decoration: none;
+  color: black;
+  /* font-family: Manrope; */
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 19.12px;
+  text-align: center;
+}
