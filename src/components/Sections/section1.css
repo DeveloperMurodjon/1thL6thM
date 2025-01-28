@@ -1,0 +1,13 @@
+.sec1 {
+  margin-top: 41px;
+  display: flex;
+  flex-direction: column;
+}
+
+.sec1_title {
+  color: black;
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 30.05px;
+  text-align: center;
+}

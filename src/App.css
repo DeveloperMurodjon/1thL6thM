@@ -35,6 +35,9 @@
 
 .total {
   font-family: "Manrope", sans-serif;
+  display: flex;
+  flex-direction: column;
+  color: black;
 }
 
 .lending {

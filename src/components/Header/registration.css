@@ -18,6 +18,8 @@ form {
   padding-right: 20.8rem;
   padding-bottom: 1.4rem;
   padding-left: 2.1rem;
+
+  border: 1px solid #dfe4f1;
 }
 
 #password {
@@ -34,6 +36,8 @@ form {
   padding-right: 20.8rem;
   padding-bottom: 1.4rem;
   padding-left: 2.1rem;
+
+  border: 1px solid #dfe4f1;
 }
 .getStartBtn {
   border: none;
