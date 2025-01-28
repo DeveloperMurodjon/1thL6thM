@@ -1,6 +1,6 @@
 import "./howWork.css";
 
-function howWorks() {
+function HowWorks() {
   return (
     <>
       <a href="#" className="howWorksBtn">
@@ -11,4 +11,4 @@ function howWorks() {
   );
 }
 
-export default howWorks;
+export default HowWorks;

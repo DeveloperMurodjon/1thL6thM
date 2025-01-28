@@ -1,6 +1,6 @@
 import "./leftSide.css";
 import OurProcessBtn from "../Button/ourProcess.jsx";
-import HowWorksBtn from "../Button/howWork.jsx";
+import HowWorks from "../Button/howWork.jsx";
 
 function LeftSide() {
   return (
@@ -14,7 +14,7 @@ function LeftSide() {
       </p>
       <div>
         <OurProcessBtn />
-        <HowWorksBtn />
+        <HowWorks />
       </div>
     </div>
   );
