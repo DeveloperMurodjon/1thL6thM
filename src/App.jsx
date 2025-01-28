@@ -6,7 +6,7 @@ import LeftSide from "./components/Header/leftSide.jsx";
 import Registration from "./components/Header/registration.jsx";
 import Section_1 from "./components/Sections/section1.jsx";
 import Section_2 from "./components/Sections/section2.jsx";
-
+import Section_3 from "./components/Sections/section3.jsx";
 function App() {
   return (
     <div className="total">
@@ -30,6 +30,7 @@ function App() {
         <div className="container">
           <Section_1 />
           <Section_2 />
+          <Section_3 />
         </div>
       </div>
     </div>
